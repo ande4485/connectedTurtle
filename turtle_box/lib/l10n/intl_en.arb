@@ -1,0 +1,22 @@
+{
+  "see_last_messages": "See last messages",
+  "see_photos_videos_family": "See photos/videos from family",
+  "let_vocal_message": "Send vocal message to",
+  "exit": "Exit",
+  "press_turtle": "Press on turtle",
+  "press_turtle_select_choice": "Press on turtle for :",
+  "press_turtle_select_user": "Press on turtle to choose user :",
+  "press_turtle_when_ready": "Press on turtle when you are ready to speak :",
+  "press_turtle_when_finish": "Press on turtle when you finish talking",
+  "send_message": "Send message, please wait",
+  "tells_you": "{deviceName} tells you :",
+  "error_loading": "ERROR, press ont turtle please",
+  "reminder": "reminder",
+  "choose_what_you_want": "Choose what you want:",
+  "received_message": "You received messages",
+  "end_message": "No more messages, end in {time} seconds",
+  "wrong_password": "Wrong password, phone not accepted",
+  "accepted_phone": "Phone accepted",
+  "no_message": "No messages",
+  "waiting_loading":"Wait please"
+}

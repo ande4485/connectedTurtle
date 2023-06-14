@@ -1,0 +1,22 @@
+{
+  "see_last_messages": "Voir les derniers messages",
+  "see_photos_videos_family": "Voir les photos/videos de famille",
+  "let_vocal_message": "Envoyer un message vocale à",
+  "exit": "Sortir",
+  "press_turtle": "Appuyez sur la tortue",
+  "press_turtle_select_choice": "Appuyer sur la tortue pour :",
+  "press_turtle_select_user": "Appuyer sur la tortue pour choisir un utilisateur :",
+  "press_turtle_when_ready": "Appuyer sur la tortue quand vous êtes prêt à parler :",
+  "press_turtle_when_finish": "Appuyer sur la tortue quand vous avez fini de parler",
+  "send_message": "Envoie du message, attendez s'il vous plait",
+  "tells_you": "{deviceName} vous dit :",
+  "error_loading": "Erreur, appuyez sur la tortue",
+  "reminder": "Rappel",
+  "choose_what_you_want": "Choisissez ce que vous voulez:",
+  "received_message": "Vous avez reçu un message",
+  "end_message": "Plus de message, fin dans {time} secondes",
+  "wrong_password": "Mauvais mot de passe, téléphone pas accepté",
+  "accepted_phone": "Téléphone accepté",
+  "no_message": "Pas de message",
+  "waiting_loading":"Attendez"
+}
